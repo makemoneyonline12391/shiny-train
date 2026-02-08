@@ -1,0 +1,7 @@
+{
+  "name": "Lumina AI Companion",
+  "description": "A versatile, human-like conversational AI that helps you grow in business, academics, health, agriculture, and creativity using real-time voice interaction.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
